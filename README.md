@@ -1,1 +1,1 @@
-# proxy-demo
+demo for dynamic and static proxy
